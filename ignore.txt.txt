@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# Models
+*.pt
+
+# Virtual Environment
+venv/
+.env
